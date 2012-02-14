@@ -10,6 +10,17 @@ e.g. a site which requires a single issue queue for all issues related
 to that site.
 
 
+Installation
+------------
+
+Module dependencies:
+- Features
+- CTools
+- Views
+
+NOTE: Issue Queue is a 7.x module
+
+
 Maintained by
 -------------
 
