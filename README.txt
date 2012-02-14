@@ -13,12 +13,27 @@ to that site.
 Installation
 ------------
 
-Module dependencies:
+NOTE: Issue Queue is a 7.x module
+
+Module dependencies (install these first):
 - Features
 - CTools
 - Views
 
-NOTE: Issue Queue is a 7.x module
+Having installed the dependencies, install Issue Queue as per normal.
+
+
+What it does
+------------
+
+- Creates a content type called 'Issue'
+- Creates a view called 'issues'
+
+
+TODO
+----
+
+Test implementation of the Issue links module
 
 
 Maintained by
